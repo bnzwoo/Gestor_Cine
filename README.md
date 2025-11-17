@@ -6,8 +6,8 @@ Proyecto "Gestor de Cine" en lenguaje c, con las siguientes funcionalidades medi
  5. Guardar Cartelera en Archivo
  6. Cargar Cartelera desde Archivo
 
-Comando para compilar: \n
+Comando para compilar: 
 gcc main.c pelicula.c validaciones.c -o gestor
 
-Comando para ejecutar: \n
+Comando para ejecutar: 
 ./gestor
